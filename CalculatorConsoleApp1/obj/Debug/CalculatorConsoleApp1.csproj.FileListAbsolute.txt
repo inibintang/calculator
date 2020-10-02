@@ -1,0 +1,6 @@
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorConsoleApp1\bin\Debug\CalculatorConsoleApp1.exe.config
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorConsoleApp1\bin\Debug\CalculatorConsoleApp1.exe
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorConsoleApp1\bin\Debug\CalculatorConsoleApp1.pdb
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorConsoleApp1\obj\Debug\CalculatorConsoleApp1.csprojAssemblyReference.cache
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorConsoleApp1\obj\Debug\CalculatorConsoleApp1.exe
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorConsoleApp1\obj\Debug\CalculatorConsoleApp1.pdb

@@ -1,0 +1,9 @@
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.exe.config
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.exe
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.pdb
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csprojAssemblyReference.cache
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.Form1.resources
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.Properties.Resources.resources
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csproj.GenerateResource.cache
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.exe
+F:\sem3\pemrog lanjut\calculator-prak1\calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.pdb
